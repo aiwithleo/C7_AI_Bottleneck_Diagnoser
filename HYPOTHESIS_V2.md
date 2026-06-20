@@ -15,3 +15,8 @@ Right if: naming the wall + blocking the specific escape hatch creates
 motion that naming alone didn't.
 
 Wrong if: people just find a third escape hatch after you block the second
+
+Kill: neither acts on the sharp one after the escape hatch is also blocked —
+if blocking the hatch still moves no one, the diagnosis itself failed.
+
+Tested on: 2 (Sameer, Satyam). Move 5: 2 people, one cold.
